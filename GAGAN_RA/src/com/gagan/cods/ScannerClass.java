@@ -17,7 +17,8 @@ public class ScannerClass {
 
 		 System.out.println("age="+age);
 
-		 System.out.println("year of passing ="+year);
+		System.out.println("year of passing ="+year);
+		
 		 System.out.println("mobile number="+mob);
 	}
 
